@@ -1,0 +1,3603 @@
+[{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432632"
+  },
+  "Country": "Afghanistan",
+  "Abbreviation": "AF",
+  "Land_Area": 652230,
+  "Army_size": 323000,
+  "Capital": "Kabul",
+  "C02_Emissions": 8672,
+  "Currency_code": "AFN",
+  "GDP": {
+    "$numberLong": "19101353833"
+  },
+  "Official_lang": "Pashto",
+  "Population": 38041754,
+  "Latitude": 33.93911,
+  "Longitude": 67.709953
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432633"
+  },
+  "Country": "Albania",
+  "Abbreviation": "AL",
+  "Land_Area": 28748,
+  "Army_size": 9000,
+  "Capital": "Tirana",
+  "C02_Emissions": 4536,
+  "Currency_code": "ALL",
+  "GDP": {
+    "$numberLong": "15278077447"
+  },
+  "Official_lang": "Albanian",
+  "Population": 2854191,
+  "Latitude": 41.153332,
+  "Longitude": 20.168331
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432634"
+  },
+  "Country": "Algeria",
+  "Abbreviation": "DZ",
+  "Land_Area": 2381741,
+  "Army_size": 317000,
+  "Capital": "Algiers",
+  "C02_Emissions": 150006,
+  "Currency_code": "DZD",
+  "GDP": {
+    "$numberLong": "169988236398"
+  },
+  "Official_lang": "Arabic",
+  "Population": 43053054,
+  "Latitude": 28.033886,
+  "Longitude": 1.659626
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432635"
+  },
+  "Country": "Andorra",
+  "Abbreviation": "AD",
+  "Land_Area": 468,
+  "Capital": "Andorra la Vella",
+  "C02_Emissions": 469,
+  "Currency_code": "EUR",
+  "GDP": {
+    "$numberLong": "3154057987"
+  },
+  "Official_lang": "Catalan",
+  "Population": 77142,
+  "Latitude": 42.506285,
+  "Longitude": 1.521801
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432636"
+  },
+  "Country": "Angola",
+  "Abbreviation": "AO",
+  "Land_Area": 1246700,
+  "Army_size": 117000,
+  "Capital": "Luanda",
+  "C02_Emissions": 34693,
+  "Currency_code": "AOA",
+  "GDP": {
+    "$numberLong": "94635415870"
+  },
+  "Official_lang": "Portuguese",
+  "Population": 31825295,
+  "Latitude": -11.202692,
+  "Longitude": 17.873887
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432637"
+  },
+  "Country": "Antigua and Barbuda",
+  "Abbreviation": "AG",
+  "Land_Area": 443,
+  "Army_size": 0,
+  "Capital": "St. John's, Saint John",
+  "C02_Emissions": 557,
+  "Currency_code": "XCD",
+  "GDP": 1727759259,
+  "Official_lang": "English",
+  "Population": 97118,
+  "Latitude": 17.060816,
+  "Longitude": -61.796428
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432638"
+  },
+  "Country": "Argentina",
+  "Abbreviation": "AR",
+  "Land_Area": 2780400,
+  "Army_size": 105000,
+  "Capital": "Buenos Aires",
+  "C02_Emissions": 201348,
+  "Currency_code": "ARS",
+  "GDP": {
+    "$numberLong": "449663446954"
+  },
+  "Official_lang": "Spanish",
+  "Population": 44938712,
+  "Latitude": -38.416097,
+  "Longitude": -63.616672
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432639"
+  },
+  "Country": "Armenia",
+  "Abbreviation": "AM",
+  "Land_Area": 29743,
+  "Army_size": 49000,
+  "Capital": "Yerevan",
+  "C02_Emissions": 5156,
+  "Currency_code": "AMD",
+  "GDP": {
+    "$numberLong": "13672802158"
+  },
+  "Official_lang": "Armenian",
+  "Population": 2957731,
+  "Latitude": 40.069099,
+  "Longitude": 45.038189
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43263a"
+  },
+  "Country": "Australia",
+  "Abbreviation": "AU",
+  "Land_Area": 7741220,
+  "Army_size": 58000,
+  "Capital": "Canberra",
+  "C02_Emissions": 375908,
+  "Currency_code": "AUD",
+  "GDP": {
+    "$numberLong": "1392680589329"
+  },
+  "Official_lang": "None",
+  "Population": 25766605,
+  "Latitude": -25.274398,
+  "Longitude": 133.775136
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43263b"
+  },
+  "Country": "Austria",
+  "Abbreviation": "AT",
+  "Land_Area": 83871,
+  "Army_size": 21000,
+  "Capital": "Vienna",
+  "C02_Emissions": 61448,
+  "Currency_code": "EUR",
+  "GDP": {
+    "$numberLong": "446314739528"
+  },
+  "Official_lang": "German",
+  "Population": 8877067,
+  "Latitude": 47.516231,
+  "Longitude": 14.550072
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43263c"
+  },
+  "Country": "Azerbaijan",
+  "Abbreviation": "AZ",
+  "Land_Area": 86600,
+  "Army_size": 82000,
+  "Capital": "Baku",
+  "C02_Emissions": 37620,
+  "Currency_code": "AZN",
+  "GDP": {
+    "$numberLong": "39207000000"
+  },
+  "Official_lang": "Azerbaijani language",
+  "Population": 10023318,
+  "Latitude": 40.143105,
+  "Longitude": 47.576927
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43263d"
+  },
+  "Country": "The Bahamas",
+  "Abbreviation": "BS",
+  "Land_Area": 13880,
+  "Army_size": 1000,
+  "Capital": "Nassau, Bahamas",
+  "C02_Emissions": 1786,
+  "GDP": {
+    "$numberLong": "12827000000"
+  },
+  "Official_lang": "English",
+  "Population": 389482,
+  "Latitude": 25.03428,
+  "Longitude": -77.39628
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43263e"
+  },
+  "Country": "Bahrain",
+  "Abbreviation": "BH",
+  "Land_Area": 765,
+  "Army_size": 19000,
+  "Capital": "Manama",
+  "C02_Emissions": 31694,
+  "Currency_code": "BHD",
+  "GDP": {
+    "$numberLong": "38574069149"
+  },
+  "Official_lang": "Arabic",
+  "Population": 1501635,
+  "Latitude": 26.0667,
+  "Longitude": 50.5577
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43263f"
+  },
+  "Country": "Bangladesh",
+  "Abbreviation": "BD",
+  "Land_Area": 148460,
+  "Army_size": 221000,
+  "Capital": "Dhaka",
+  "C02_Emissions": 84246,
+  "Currency_code": "BDT",
+  "GDP": {
+    "$numberLong": "302571254131"
+  },
+  "Official_lang": "Bengali",
+  "Population": 167310838,
+  "Latitude": 23.684994,
+  "Longitude": 90.356331
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432640"
+  },
+  "Country": "Barbados",
+  "Abbreviation": "BB",
+  "Land_Area": 430,
+  "Army_size": 1000,
+  "Capital": "Bridgetown",
+  "C02_Emissions": 1276,
+  "Currency_code": "BBD",
+  "GDP": {
+    "$numberLong": "5209000000"
+  },
+  "Official_lang": "English",
+  "Population": 287025,
+  "Latitude": 13.193887,
+  "Longitude": -59.543198
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432641"
+  },
+  "Country": "Belarus",
+  "Abbreviation": "BY",
+  "Land_Area": 207600,
+  "Army_size": 155000,
+  "Capital": "Minsk",
+  "C02_Emissions": 58280,
+  "Currency_code": "BYN",
+  "GDP": {
+    "$numberLong": "63080457023"
+  },
+  "Official_lang": "Russian",
+  "Population": 9466856,
+  "Latitude": 53.709807,
+  "Longitude": 27.953389
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432642"
+  },
+  "Country": "Belgium",
+  "Abbreviation": "BE",
+  "Land_Area": 30528,
+  "Army_size": 32000,
+  "Capital": "City of Brussels",
+  "C02_Emissions": 96889,
+  "Currency_code": "EUR",
+  "GDP": {
+    "$numberLong": "529606710418"
+  },
+  "Official_lang": "French",
+  "Population": 11484055,
+  "Latitude": 50.503887,
+  "Longitude": 4.469936
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432643"
+  },
+  "Country": "Belize",
+  "Abbreviation": "BZ",
+  "Land_Area": 22966,
+  "Army_size": 2000,
+  "Capital": "Belmopan",
+  "C02_Emissions": 568,
+  "Currency_code": "BZD",
+  "GDP": 1879613600,
+  "Official_lang": "English",
+  "Population": 390353,
+  "Latitude": 17.189877,
+  "Longitude": -88.49765
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432644"
+  },
+  "Country": "Benin",
+  "Abbreviation": "BJ",
+  "Land_Area": 112622,
+  "Army_size": 12000,
+  "Capital": "Porto-Novo",
+  "C02_Emissions": 6476,
+  "Currency_code": "XOF",
+  "GDP": {
+    "$numberLong": "14390709095"
+  },
+  "Official_lang": "French",
+  "Population": 11801151,
+  "Latitude": 9.30769,
+  "Longitude": 2.315834
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432645"
+  },
+  "Country": "Bhutan",
+  "Abbreviation": "BT",
+  "Land_Area": 38394,
+  "Army_size": 6000,
+  "Capital": "Thimphu",
+  "C02_Emissions": 1261,
+  "GDP": {
+    "$numberLong": "2446674101"
+  },
+  "Official_lang": "Dzongkha",
+  "Population": 727145,
+  "Latitude": 27.514162,
+  "Longitude": 90.433601
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432646"
+  },
+  "Country": "Bolivia",
+  "Abbreviation": "BO",
+  "Land_Area": 1098581,
+  "Army_size": 71000,
+  "Capital": "Sucre",
+  "C02_Emissions": 21606,
+  "Currency_code": "BOB",
+  "GDP": {
+    "$numberLong": "40895322865"
+  },
+  "Official_lang": "Spanish",
+  "Population": 11513100,
+  "Latitude": -16.290154,
+  "Longitude": -63.588653
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432647"
+  },
+  "Country": "Bosnia and Herzegovina",
+  "Abbreviation": "BA",
+  "Land_Area": 51197,
+  "Army_size": 11000,
+  "Capital": "Sarajevo",
+  "C02_Emissions": 21848,
+  "Currency_code": "BAM",
+  "GDP": {
+    "$numberLong": "20047848435"
+  },
+  "Official_lang": "Bosnian",
+  "Population": 3301000,
+  "Latitude": 43.915886,
+  "Longitude": 17.679076
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432648"
+  },
+  "Country": "Botswana",
+  "Abbreviation": "BW",
+  "Land_Area": 581730,
+  "Army_size": 9000,
+  "Capital": "Gaborone",
+  "C02_Emissions": 6340,
+  "Currency_code": "BWP",
+  "GDP": {
+    "$numberLong": "18340510789"
+  },
+  "Official_lang": "English",
+  "Population": 2346179,
+  "Latitude": -22.328474,
+  "Longitude": 24.684866
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432649"
+  },
+  "Country": "Brazil",
+  "Abbreviation": "BR",
+  "Land_Area": 8515770,
+  "Army_size": 730000,
+  "Capital": "Bras���",
+  "C02_Emissions": 462299,
+  "Currency_code": "BRL",
+  "GDP": {
+    "$numberLong": "1839758040766"
+  },
+  "Official_lang": "Portuguese",
+  "Population": 212559417,
+  "Latitude": -14.235004,
+  "Longitude": -51.92528
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43264a"
+  },
+  "Country": "Brunei",
+  "Abbreviation": "BN",
+  "Land_Area": 5765,
+  "Army_size": 8000,
+  "Capital": "Bandar Seri Begawan",
+  "C02_Emissions": 7664,
+  "Currency_code": "BND",
+  "GDP": {
+    "$numberLong": "13469422941"
+  },
+  "Official_lang": "Malay",
+  "Population": 433285,
+  "Latitude": 4.535277,
+  "Longitude": 114.727669
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43264b"
+  },
+  "Country": "Bulgaria",
+  "Abbreviation": "BG",
+  "Land_Area": 110879,
+  "Army_size": 31000,
+  "Capital": "Sofia",
+  "C02_Emissions": 41708,
+  "Currency_code": "BGN",
+  "GDP": {
+    "$numberLong": "86000000000"
+  },
+  "Official_lang": "Bulgarian",
+  "Population": 6975761,
+  "Latitude": 42.733883,
+  "Longitude": 25.48583
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43264c"
+  },
+  "Country": "Burkina Faso",
+  "Abbreviation": "BF",
+  "Land_Area": 274200,
+  "Army_size": 11000,
+  "Capital": "Ouagadougou",
+  "C02_Emissions": 3418,
+  "Currency_code": "XOF",
+  "GDP": {
+    "$numberLong": "15745810235"
+  },
+  "Official_lang": "French",
+  "Population": 20321378,
+  "Latitude": 12.238333,
+  "Longitude": -1.561593
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43264d"
+  },
+  "Country": "Burundi",
+  "Abbreviation": "BI",
+  "Land_Area": 27830,
+  "Army_size": 31000,
+  "Capital": "Bujumbura",
+  "C02_Emissions": 495,
+  "Currency_code": "BIF",
+  "GDP": {
+    "$numberLong": "3012334882"
+  },
+  "Official_lang": "Kirundi",
+  "Population": 11530580,
+  "Latitude": -3.373056,
+  "Longitude": 29.918886
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43264e"
+  },
+  "Country": "Ivory Coast",
+  "Abbreviation": "CI",
+  "Land_Area": 322463,
+  "Army_size": 27000,
+  "Capital": "Yamoussoukro",
+  "C02_Emissions": 9674,
+  "Currency_code": "XOF",
+  "GDP": {
+    "$numberLong": "58792205642"
+  },
+  "Official_lang": "French",
+  "Population": 25716544,
+  "Latitude": 7.539989,
+  "Longitude": -5.54708
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43264f"
+  },
+  "Country": "Cape Verde",
+  "Abbreviation": "CV",
+  "Land_Area": 4033,
+  "Army_size": 1000,
+  "Capital": "Praia",
+  "C02_Emissions": 543,
+  "Currency_code": "CVE",
+  "GDP": 1981845741,
+  "Official_lang": "Portuguese",
+  "Population": 483628,
+  "Latitude": 16.5388,
+  "Longitude": -23.0418
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432650"
+  },
+  "Country": "Cambodia",
+  "Abbreviation": "KH",
+  "Land_Area": 181035,
+  "Army_size": 191000,
+  "Capital": "Phnom Penh",
+  "C02_Emissions": 9919,
+  "GDP": {
+    "$numberLong": "27089389787"
+  },
+  "Official_lang": "Khmer language",
+  "Population": 16486542,
+  "Latitude": 12.565679,
+  "Longitude": 104.990963
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432651"
+  },
+  "Country": "Cameroon",
+  "Abbreviation": "CM",
+  "Land_Area": 475440,
+  "Army_size": 24000,
+  "Capital": "Yaound�",
+  "C02_Emissions": 8291,
+  "Currency_code": "XAF",
+  "GDP": {
+    "$numberLong": "38760467033"
+  },
+  "Official_lang": "French",
+  "Population": 25876380,
+  "Latitude": 7.369722,
+  "Longitude": 12.354722
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432652"
+  },
+  "Country": "Canada",
+  "Abbreviation": "CA",
+  "Land_Area": 9984670,
+  "Army_size": 72000,
+  "Capital": "Ottawa",
+  "C02_Emissions": 544894,
+  "Currency_code": "CAD",
+  "GDP": {
+    "$numberLong": "1736425629520"
+  },
+  "Official_lang": "French",
+  "Population": 36991981,
+  "Latitude": 56.130366,
+  "Longitude": -106.346771
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432653"
+  },
+  "Country": "Central African Republic",
+  "Abbreviation": "CF",
+  "Land_Area": 622984,
+  "Army_size": 8000,
+  "Capital": "Bangui",
+  "C02_Emissions": 297,
+  "GDP": {
+    "$numberLong": "2220307369"
+  },
+  "Official_lang": "French",
+  "Population": 4745185,
+  "Latitude": 6.611111,
+  "Longitude": 20.939444
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432654"
+  },
+  "Country": "Chad",
+  "Abbreviation": "TD",
+  "Land_Area": 1284000,
+  "Army_size": 35000,
+  "Capital": "N'Djamena",
+  "C02_Emissions": 1016,
+  "Currency_code": "XAF",
+  "GDP": {
+    "$numberLong": "11314951343"
+  },
+  "Official_lang": "French",
+  "Population": 15946876,
+  "Latitude": 15.454166,
+  "Longitude": 18.732207
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432655"
+  },
+  "Country": "Chile",
+  "Abbreviation": "CL",
+  "Land_Area": 756096,
+  "Army_size": 122000,
+  "Capital": "Santiago",
+  "C02_Emissions": 85822,
+  "Currency_code": "CLP",
+  "GDP": {
+    "$numberLong": "282318159745"
+  },
+  "Official_lang": "Spanish",
+  "Population": 18952038,
+  "Latitude": -35.675147,
+  "Longitude": -71.542969
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432656"
+  },
+  "Country": "China",
+  "Abbreviation": "CN",
+  "Land_Area": 9596960,
+  "Army_size": 2695000,
+  "Capital": "Beijing",
+  "C02_Emissions": 9893038,
+  "Currency_code": "CNY",
+  "GDP": {
+    "$numberLong": "19910000000000"
+  },
+  "Official_lang": "Standard Chinese",
+  "Population": 1397715000,
+  "Latitude": 35.86166,
+  "Longitude": 104.195397
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432657"
+  },
+  "Country": "Colombia",
+  "Abbreviation": "CO",
+  "Land_Area": 1138910,
+  "Army_size": 481000,
+  "Capital": "Bogot�",
+  "C02_Emissions": 97814,
+  "Currency_code": "COP",
+  "GDP": {
+    "$numberLong": "323802808108"
+  },
+  "Official_lang": "Spanish",
+  "Population": 50339443,
+  "Latitude": 4.570868,
+  "Longitude": -74.297333
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432658"
+  },
+  "Country": "Comoros",
+  "Abbreviation": "KM",
+  "Land_Area": 2235,
+  "Capital": "Moroni, Comoros",
+  "C02_Emissions": 202,
+  "Currency_code": "KMF",
+  "GDP": 1185728677,
+  "Official_lang": "French",
+  "Population": 850886,
+  "Latitude": -11.6455,
+  "Longitude": 43.3333
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432659"
+  },
+  "Country": "Republic of the Congo",
+  "Land_Area": 342000,
+  "Army_size": 12000,
+  "Capital": "Brazzaville",
+  "C02_Emissions": 3282,
+  "Currency_code": "XAF",
+  "GDP": {
+    "$numberLong": "10820591131"
+  },
+  "Official_lang": "French",
+  "Population": 5380508,
+  "Latitude": -0.228021,
+  "Longitude": 15.827659
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43265a"
+  },
+  "Country": "Costa Rica",
+  "Abbreviation": "CR",
+  "Land_Area": 51100,
+  "Army_size": 10000,
+  "Capital": "San Jos������",
+  "C02_Emissions": 8023,
+  "Currency_code": "CRC",
+  "GDP": {
+    "$numberLong": "61773944174"
+  },
+  "Official_lang": "Spanish",
+  "Population": 5047561,
+  "Latitude": 9.748917,
+  "Longitude": -83.753428
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43265b"
+  },
+  "Country": "Croatia",
+  "Abbreviation": "HR",
+  "Land_Area": 56594,
+  "Army_size": 18000,
+  "Capital": "Zagreb",
+  "C02_Emissions": 17488,
+  "Currency_code": "HRK",
+  "GDP": {
+    "$numberLong": "60415553039"
+  },
+  "Official_lang": "Croatian",
+  "Population": 4067500,
+  "Latitude": 45.1,
+  "Longitude": 15.2
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43265c"
+  },
+  "Country": "Cuba",
+  "Abbreviation": "CU",
+  "Land_Area": 110860,
+  "Army_size": 76000,
+  "Capital": "Havana",
+  "C02_Emissions": 28284,
+  "Currency_code": "CUP",
+  "GDP": {
+    "$numberLong": "100023000000"
+  },
+  "Official_lang": "Spanish",
+  "Population": 11333483,
+  "Latitude": 21.521757,
+  "Longitude": -77.781167
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43265d"
+  },
+  "Country": "Cyprus",
+  "Abbreviation": "CY",
+  "Land_Area": 9251,
+  "Army_size": 16000,
+  "Capital": "Nicosia",
+  "C02_Emissions": 6626,
+  "Currency_code": "EUR",
+  "GDP": {
+    "$numberLong": "24564647935"
+  },
+  "Official_lang": "Greek",
+  "Population": 1198575,
+  "Latitude": 35.126413,
+  "Longitude": 33.429859
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43265e"
+  },
+  "Country": "Czech Republic",
+  "Abbreviation": "CZ",
+  "Land_Area": 78867,
+  "Army_size": 23000,
+  "Capital": "Prague",
+  "C02_Emissions": 102218,
+  "Currency_code": "CZK",
+  "GDP": {
+    "$numberLong": "246489245495"
+  },
+  "Official_lang": "Czech",
+  "Population": 10669709,
+  "Latitude": 49.817492,
+  "Longitude": 15.472962
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43265f"
+  },
+  "Country": "Democratic Republic of the Congo",
+  "Abbreviation": "CD",
+  "Land_Area": 2344858,
+  "Army_size": 134000,
+  "Capital": "Kinshasa",
+  "C02_Emissions": 2021,
+  "Currency_code": "CDF",
+  "GDP": {
+    "$numberLong": "47319624204"
+  },
+  "Official_lang": "French",
+  "Population": 86790567,
+  "Latitude": -4.038333,
+  "Longitude": 21.758664
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432660"
+  },
+  "Country": "Denmark",
+  "Abbreviation": "DK",
+  "Land_Area": 43094,
+  "Army_size": 15000,
+  "Capital": "Copenhagen",
+  "C02_Emissions": 31786,
+  "Currency_code": "DKK",
+  "GDP": {
+    "$numberLong": "348078018464"
+  },
+  "Official_lang": "Danish",
+  "Population": 5818553,
+  "Latitude": 56.26392,
+  "Longitude": 9.501785
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432661"
+  },
+  "Country": "Djibouti",
+  "Abbreviation": "DJ",
+  "Land_Area": 23200,
+  "Army_size": 13000,
+  "Capital": "Djibouti City",
+  "C02_Emissions": 620,
+  "Currency_code": "DJF",
+  "GDP": {
+    "$numberLong": "3318716359"
+  },
+  "Official_lang": "French",
+  "Population": 973560,
+  "Latitude": 11.825138,
+  "Longitude": 42.590275
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432662"
+  },
+  "Country": "Dominica",
+  "Abbreviation": "DM",
+  "Land_Area": 751,
+  "Capital": "Roseau",
+  "C02_Emissions": 180,
+  "Currency_code": "XCD",
+  "GDP": 596033333,
+  "Official_lang": "English",
+  "Population": 71808,
+  "Latitude": 15.414999,
+  "Longitude": -61.370976
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432663"
+  },
+  "Country": "Dominican Republic",
+  "Abbreviation": "DO",
+  "Land_Area": 48670,
+  "Army_size": 71000,
+  "Capital": "Santo Domingo",
+  "C02_Emissions": 25258,
+  "Currency_code": "DOP",
+  "GDP": {
+    "$numberLong": "88941298258"
+  },
+  "Official_lang": "Spanish",
+  "Population": 10738958,
+  "Latitude": 18.735693,
+  "Longitude": -70.162651
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432664"
+  },
+  "Country": "Ecuador",
+  "Abbreviation": "EC",
+  "Land_Area": 283561,
+  "Army_size": 41000,
+  "Capital": "Quito",
+  "C02_Emissions": 41155,
+  "Currency_code": "USD",
+  "GDP": {
+    "$numberLong": "107435665000"
+  },
+  "Official_lang": "Spanish",
+  "Population": 17373662,
+  "Latitude": -1.831239,
+  "Longitude": -78.183406
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432665"
+  },
+  "Country": "Egypt",
+  "Abbreviation": "EG",
+  "Land_Area": 1001450,
+  "Army_size": 836000,
+  "Capital": "Cairo",
+  "C02_Emissions": 238560,
+  "Currency_code": "EGP",
+  "GDP": {
+    "$numberLong": "303175127598"
+  },
+  "Official_lang": "Modern Standard Arabic",
+  "Population": 100388073,
+  "Latitude": 26.820553,
+  "Longitude": 30.802498
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432666"
+  },
+  "Country": "El Salvador",
+  "Abbreviation": "SV",
+  "Land_Area": 21041,
+  "Army_size": 42000,
+  "Capital": "San Salvador",
+  "C02_Emissions": 7169,
+  "GDP": {
+    "$numberLong": "27022640000"
+  },
+  "Official_lang": "Spanish",
+  "Population": 6453553,
+  "Latitude": 13.794185,
+  "Longitude": -88.89653
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432667"
+  },
+  "Country": "Equatorial Guinea",
+  "Abbreviation": "GQ",
+  "Land_Area": 28051,
+  "Army_size": 1000,
+  "Capital": "Malabo",
+  "C02_Emissions": 5655,
+  "Currency_code": "XAF",
+  "GDP": {
+    "$numberLong": "11026774945"
+  },
+  "Official_lang": "Spanish",
+  "Population": 1355986,
+  "Latitude": 1.650801,
+  "Longitude": 10.267895
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432668"
+  },
+  "Country": "Eritrea",
+  "Abbreviation": "ER",
+  "Land_Area": 117600,
+  "Army_size": 202000,
+  "Capital": "Asmara",
+  "C02_Emissions": 711,
+  "Currency_code": "ERN",
+  "GDP": 2065001626,
+  "Official_lang": "Tigrinya",
+  "Population": 6333135,
+  "Latitude": 15.179384,
+  "Longitude": 39.782334
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432669"
+  },
+  "Country": "Estonia",
+  "Abbreviation": "EE",
+  "Land_Area": 45228,
+  "Army_size": 6000,
+  "Capital": "Tallinn",
+  "C02_Emissions": 16590,
+  "Currency_code": "EUR",
+  "GDP": {
+    "$numberLong": "31386949981"
+  },
+  "Official_lang": "Estonian",
+  "Population": 1331824,
+  "Latitude": 58.595272,
+  "Longitude": 25.013607
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43266a"
+  },
+  "Country": "Eswatini",
+  "Land_Area": 17364,
+  "Capital": "Mbabane",
+  "GDP": {
+    "$numberLong": "3791304348"
+  },
+  "Official_lang": "English",
+  "Population": 1093238,
+  "Latitude": -26.522503,
+  "Longitude": 31.465866
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43266b"
+  },
+  "Country": "Ethiopia",
+  "Abbreviation": "ET",
+  "Land_Area": 1104300,
+  "Army_size": 138000,
+  "Capital": "Addis Ababa",
+  "C02_Emissions": 14870,
+  "Currency_code": "ETB",
+  "GDP": {
+    "$numberLong": "96107662398"
+  },
+  "Official_lang": "Amharic",
+  "Population": 112078730,
+  "Latitude": 9.145,
+  "Longitude": 40.489673
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43266c"
+  },
+  "Country": "Fiji",
+  "Abbreviation": "FJ",
+  "Land_Area": 18274,
+  "Army_size": 4000,
+  "Capital": "Suva",
+  "C02_Emissions": 2046,
+  "Currency_code": "FJD",
+  "GDP": {
+    "$numberLong": "5535548972"
+  },
+  "Official_lang": "Fiji Hindi",
+  "Population": 889953,
+  "Latitude": -17.713371,
+  "Longitude": 178.065032
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43266d"
+  },
+  "Country": "Finland",
+  "Abbreviation": "FI",
+  "Land_Area": 338145,
+  "Army_size": 25000,
+  "Capital": "Helsinki",
+  "C02_Emissions": 45871,
+  "Currency_code": "EUR",
+  "GDP": {
+    "$numberLong": "268761201365"
+  },
+  "Official_lang": "Swedish",
+  "Population": 5520314,
+  "Latitude": 61.92411,
+  "Longitude": 25.748151
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43266e"
+  },
+  "Country": "France",
+  "Abbreviation": "FR",
+  "Land_Area": 643801,
+  "Army_size": 307000,
+  "Capital": "Paris",
+  "C02_Emissions": 303276,
+  "Currency_code": "EUR",
+  "GDP": {
+    "$numberLong": "2715518274227"
+  },
+  "Official_lang": "French",
+  "Population": 67059887,
+  "Latitude": 46.227638,
+  "Longitude": 2.213749
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43266f"
+  },
+  "Country": "Gabon",
+  "Abbreviation": "GA",
+  "Land_Area": 267667,
+  "Army_size": 7000,
+  "Capital": "Libreville",
+  "C02_Emissions": 5321,
+  "Currency_code": "XAF",
+  "GDP": {
+    "$numberLong": "16657960228"
+  },
+  "Official_lang": "French",
+  "Population": 2172579,
+  "Latitude": -0.803689,
+  "Longitude": 11.609444
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432670"
+  },
+  "Country": "The Gambia",
+  "Abbreviation": "GM",
+  "Land_Area": 11300,
+  "Army_size": 1000,
+  "Capital": "Banjul",
+  "C02_Emissions": 532,
+  "Currency_code": "GMD",
+  "GDP": 1763819048,
+  "Official_lang": "English",
+  "Population": 2347706,
+  "Latitude": 13.443182,
+  "Longitude": -15.310139
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432671"
+  },
+  "Country": "Georgia",
+  "Abbreviation": "GE",
+  "Land_Area": 69700,
+  "Army_size": 26000,
+  "Capital": "Tbilisi",
+  "C02_Emissions": 10128,
+  "Currency_code": "GEL",
+  "GDP": {
+    "$numberLong": "17743195770"
+  },
+  "Official_lang": "Georgian",
+  "Population": 3720382,
+  "Latitude": 42.315407,
+  "Longitude": 43.356892
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432672"
+  },
+  "Country": "Germany",
+  "Abbreviation": "DE",
+  "Land_Area": 357022,
+  "Army_size": 180000,
+  "Capital": "Berlin",
+  "C02_Emissions": 727973,
+  "Currency_code": "EUR",
+  "GDP": {
+    "$numberLong": "3845630030824"
+  },
+  "Official_lang": "German",
+  "Population": 83132799,
+  "Latitude": 51.165691,
+  "Longitude": 10.451526
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432673"
+  },
+  "Country": "Ghana",
+  "Abbreviation": "GH",
+  "Land_Area": 238533,
+  "Army_size": 16000,
+  "Capital": "Accra",
+  "C02_Emissions": 16670,
+  "Currency_code": "GHS",
+  "GDP": {
+    "$numberLong": "66983634224"
+  },
+  "Official_lang": "English",
+  "Population": 30792608,
+  "Latitude": 7.946527,
+  "Longitude": -1.023194
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432674"
+  },
+  "Country": "Greece",
+  "Abbreviation": "GR",
+  "Land_Area": 131957,
+  "Army_size": 146000,
+  "Capital": "Athens",
+  "C02_Emissions": 62434,
+  "Currency_code": "EUR",
+  "GDP": {
+    "$numberLong": "209852761469"
+  },
+  "Official_lang": "Greek",
+  "Population": 10716322,
+  "Latitude": 39.074208,
+  "Longitude": 21.824312
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432675"
+  },
+  "Country": "Grenada",
+  "Abbreviation": "GD",
+  "Land_Area": 349,
+  "Capital": "St. George's, Grenada",
+  "C02_Emissions": 268,
+  "Currency_code": "XCD",
+  "GDP": 1228170370,
+  "Official_lang": "English",
+  "Population": 112003,
+  "Latitude": 12.1165,
+  "Longitude": -61.679
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432676"
+  },
+  "Country": "Guatemala",
+  "Abbreviation": "GT",
+  "Land_Area": 108889,
+  "Army_size": 43000,
+  "Capital": "Guatemala City",
+  "C02_Emissions": 16777,
+  "Currency_code": "GTQ",
+  "GDP": {
+    "$numberLong": "76710385880"
+  },
+  "Official_lang": "Spanish",
+  "Population": 16604026,
+  "Latitude": 15.783471,
+  "Longitude": -90.230759
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432677"
+  },
+  "Country": "Guinea",
+  "Abbreviation": "GN",
+  "Land_Area": 245857,
+  "Army_size": 13000,
+  "Capital": "Conakry",
+  "C02_Emissions": 2996,
+  "Currency_code": "GNF",
+  "GDP": {
+    "$numberLong": "13590281809"
+  },
+  "Official_lang": "French",
+  "Population": 12771246,
+  "Latitude": 9.945587,
+  "Longitude": -9.696645
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432678"
+  },
+  "Country": "Guinea-Bissau",
+  "Abbreviation": "GW",
+  "Land_Area": 36125,
+  "Army_size": 4000,
+  "Capital": "Bissau",
+  "C02_Emissions": 293,
+  "Currency_code": "XOF",
+  "GDP": 1340389411,
+  "Official_lang": "Portuguese",
+  "Population": 1920922,
+  "Latitude": 11.803749,
+  "Longitude": -15.180413
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432679"
+  },
+  "Country": "Guyana",
+  "Abbreviation": "GY",
+  "Land_Area": 214969,
+  "Army_size": 3000,
+  "Capital": "Georgetown, Guyana",
+  "C02_Emissions": 2384,
+  "Currency_code": "GYD",
+  "GDP": {
+    "$numberLong": "4280443645"
+  },
+  "Official_lang": "English",
+  "Population": 782766,
+  "Latitude": 4.860416,
+  "Longitude": -58.93018
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43267a"
+  },
+  "Country": "Haiti",
+  "Abbreviation": "HT",
+  "Land_Area": 27750,
+  "Army_size": 0,
+  "Capital": "Port-au-Prince",
+  "C02_Emissions": 2978,
+  "Currency_code": "HTG",
+  "GDP": {
+    "$numberLong": "8498981821"
+  },
+  "Official_lang": "French",
+  "Population": 11263077,
+  "Latitude": 18.971187,
+  "Longitude": -72.285215
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43267b"
+  },
+  "Country": "Vatican City",
+  "Land_Area": 0,
+  "Capital": "Vatican City",
+  "Currency_code": "EUR",
+  "Official_lang": "Italian",
+  "Population": 836,
+  "Latitude": 41.902916,
+  "Longitude": 12.453389
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43267c"
+  },
+  "Country": "Honduras",
+  "Abbreviation": "HN",
+  "Land_Area": 112090,
+  "Army_size": 23000,
+  "Capital": "Tegucigalpa",
+  "C02_Emissions": 9813,
+  "Currency_code": "HNL",
+  "GDP": {
+    "$numberLong": "25095395475"
+  },
+  "Official_lang": "Spanish",
+  "Population": 9746117,
+  "Latitude": 15.199999,
+  "Longitude": -86.241905
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43267d"
+  },
+  "Country": "Hungary",
+  "Abbreviation": "HU",
+  "Land_Area": 93028,
+  "Army_size": 40000,
+  "Capital": "Budapest",
+  "C02_Emissions": 45537,
+  "Currency_code": "HUF",
+  "GDP": {
+    "$numberLong": "160967157504"
+  },
+  "Official_lang": "Hungarian",
+  "Population": 9769949,
+  "Latitude": 47.162494,
+  "Longitude": 19.503304
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43267e"
+  },
+  "Country": "Iceland",
+  "Abbreviation": "IS",
+  "Land_Area": 103000,
+  "Army_size": 0,
+  "Capital": "Reykjav��",
+  "C02_Emissions": 2065,
+  "Currency_code": "ISK",
+  "GDP": {
+    "$numberLong": "24188035739"
+  },
+  "Official_lang": "Icelandic",
+  "Population": 361313,
+  "Latitude": 64.963051,
+  "Longitude": -19.020835
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43267f"
+  },
+  "Country": "India",
+  "Abbreviation": "IN",
+  "Land_Area": 3287263,
+  "Army_size": 3031000,
+  "Capital": "New Delhi",
+  "C02_Emissions": 2407672,
+  "Currency_code": "INR",
+  "GDP": {
+    "$numberLong": "2611000000000"
+  },
+  "Official_lang": "Hindi",
+  "Population": 1366417754,
+  "Latitude": 20.593684,
+  "Longitude": 78.96288
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432680"
+  },
+  "Country": "Indonesia",
+  "Abbreviation": "ID",
+  "Land_Area": 1904569,
+  "Army_size": 676000,
+  "Capital": "Jakarta",
+  "C02_Emissions": 563325,
+  "Currency_code": "IDR",
+  "GDP": {
+    "$numberLong": "1119190780753"
+  },
+  "Official_lang": "Indonesian",
+  "Population": 270203917,
+  "Latitude": -0.789275,
+  "Longitude": 113.921327
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432681"
+  },
+  "Country": "Iran",
+  "Abbreviation": "IR",
+  "Land_Area": 1648195,
+  "Army_size": 563000,
+  "Capital": "Tehran",
+  "C02_Emissions": 661710,
+  "Currency_code": "IRR",
+  "GDP": {
+    "$numberLong": "445345282123"
+  },
+  "Official_lang": "Persian",
+  "Population": 82913906,
+  "Latitude": 32.427908,
+  "Longitude": 53.688046
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432682"
+  },
+  "Country": "Iraq",
+  "Abbreviation": "IQ",
+  "Land_Area": 438317,
+  "Army_size": 209000,
+  "Capital": "Baghdad",
+  "C02_Emissions": 190061,
+  "Currency_code": "IQD",
+  "GDP": {
+    "$numberLong": "234094042939"
+  },
+  "Official_lang": "Arabic",
+  "Population": 39309783,
+  "Latitude": 33.223191,
+  "Longitude": 43.679291
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432683"
+  },
+  "Country": "Republic of Ireland",
+  "Land_Area": 70273,
+  "Army_size": 9000,
+  "Capital": "Dublin",
+  "C02_Emissions": 37711,
+  "Currency_code": "EUR",
+  "GDP": {
+    "$numberLong": "388698711348"
+  },
+  "Official_lang": "Irish",
+  "Population": 5007069,
+  "Latitude": 53.41291,
+  "Longitude": -8.24389
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432684"
+  },
+  "Country": "Israel",
+  "Abbreviation": "IL",
+  "Land_Area": 20770,
+  "Army_size": 178000,
+  "Capital": "Jerusalem",
+  "C02_Emissions": 65166,
+  "Currency_code": "ILS",
+  "GDP": {
+    "$numberLong": "395098666122"
+  },
+  "Official_lang": "Hebrew",
+  "Population": 9053300,
+  "Latitude": 31.046051,
+  "Longitude": 34.851612
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432685"
+  },
+  "Country": "Italy",
+  "Abbreviation": "IT",
+  "Land_Area": 301340,
+  "Army_size": 347000,
+  "Capital": "Rome",
+  "C02_Emissions": 320411,
+  "Currency_code": "EUR",
+  "GDP": {
+    "$numberLong": "2001244392042"
+  },
+  "Official_lang": "Italian",
+  "Population": 60297396,
+  "Latitude": 41.87194,
+  "Longitude": 12.56738
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432686"
+  },
+  "Country": "Jamaica",
+  "Abbreviation": "JM",
+  "Land_Area": 10991,
+  "Army_size": 4000,
+  "Capital": "Kingston, Jamaica",
+  "C02_Emissions": 8225,
+  "Currency_code": "JMD",
+  "GDP": {
+    "$numberLong": "16458071068"
+  },
+  "Official_lang": "Jamaican English",
+  "Population": 2948279,
+  "Latitude": 18.109581,
+  "Longitude": -77.297508
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432687"
+  },
+  "Country": "Japan",
+  "Abbreviation": "JP",
+  "Land_Area": 377944,
+  "Army_size": 261000,
+  "Capital": "Tokyo",
+  "C02_Emissions": 1135886,
+  "GDP": {
+    "$numberLong": "5081769542380"
+  },
+  "Official_lang": "None",
+  "Population": 126226568,
+  "Latitude": 36.204824,
+  "Longitude": 138.252924
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432688"
+  },
+  "Country": "Jordan",
+  "Abbreviation": "JO",
+  "Land_Area": 89342,
+  "Army_size": 116000,
+  "Capital": "Amman",
+  "C02_Emissions": 25108,
+  "Currency_code": "JOD",
+  "GDP": {
+    "$numberLong": "43743661972"
+  },
+  "Official_lang": "Arabic",
+  "Population": 10101694,
+  "Latitude": 30.585164,
+  "Longitude": 36.238414
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432689"
+  },
+  "Country": "Kazakhstan",
+  "Abbreviation": "KZ",
+  "Land_Area": 2724900,
+  "Army_size": 71000,
+  "Capital": "Astana",
+  "C02_Emissions": 247207,
+  "Currency_code": "KZT",
+  "GDP": {
+    "$numberLong": "180161741180"
+  },
+  "Official_lang": "Russian",
+  "Population": 18513930,
+  "Latitude": 48.019573,
+  "Longitude": 66.923684
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43268a"
+  },
+  "Country": "Kenya",
+  "Abbreviation": "KE",
+  "Land_Area": 580367,
+  "Army_size": 29000,
+  "Capital": "Nairobi",
+  "C02_Emissions": 17910,
+  "Currency_code": "KES",
+  "GDP": {
+    "$numberLong": "95503088538"
+  },
+  "Official_lang": "Swahili",
+  "Population": 52573973,
+  "Latitude": -0.023559,
+  "Longitude": 37.906193
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43268b"
+  },
+  "Country": "Kiribati",
+  "Abbreviation": "KI",
+  "Land_Area": 811,
+  "Capital": "South Tarawa",
+  "C02_Emissions": 66,
+  "Currency_code": "AUD",
+  "GDP": 194647202,
+  "Official_lang": "English",
+  "Population": 117606,
+  "Latitude": 1.8368976,
+  "Longitude": -157.3768317
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43268c"
+  },
+  "Country": "Kuwait",
+  "Abbreviation": "KW",
+  "Land_Area": 17818,
+  "Army_size": 25000,
+  "Capital": "Kuwait City",
+  "C02_Emissions": 98734,
+  "Currency_code": "KWD",
+  "GDP": {
+    "$numberLong": "134761198946"
+  },
+  "Official_lang": "Modern Standard Arabic",
+  "Population": 4207083,
+  "Latitude": 29.31166,
+  "Longitude": 47.481766
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43268d"
+  },
+  "Country": "Kyrgyzstan",
+  "Abbreviation": "KG",
+  "Land_Area": 199951,
+  "Army_size": 21000,
+  "Capital": "Bishkek",
+  "C02_Emissions": 9787,
+  "Currency_code": "KGS",
+  "GDP": {
+    "$numberLong": "8454619608"
+  },
+  "Official_lang": "Russian",
+  "Population": 6456900,
+  "Latitude": 41.20438,
+  "Longitude": 74.766098
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43268e"
+  },
+  "Country": "Laos",
+  "Abbreviation": "LA",
+  "Land_Area": 236800,
+  "Army_size": 129000,
+  "Capital": "Vientiane",
+  "C02_Emissions": 17763,
+  "Currency_code": "LAK",
+  "GDP": {
+    "$numberLong": "18173839128"
+  },
+  "Official_lang": "Lao",
+  "Population": 7169455,
+  "Latitude": 19.85627,
+  "Longitude": 102.495496
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43268f"
+  },
+  "Country": "Latvia",
+  "Abbreviation": "LV",
+  "Land_Area": 64589,
+  "Army_size": 6000,
+  "Capital": "Riga",
+  "C02_Emissions": 7004,
+  "Currency_code": "EUR",
+  "GDP": {
+    "$numberLong": "34117202555"
+  },
+  "Official_lang": "Latvian",
+  "Population": 1912789,
+  "Latitude": 56.879635,
+  "Longitude": 24.603189
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432690"
+  },
+  "Country": "Lebanon",
+  "Abbreviation": "LB",
+  "Land_Area": 10400,
+  "Army_size": 80000,
+  "Capital": "Beirut",
+  "C02_Emissions": 24796,
+  "Currency_code": "LBP",
+  "GDP": {
+    "$numberLong": "53367042272"
+  },
+  "Official_lang": "Arabic",
+  "Population": 6855713,
+  "Latitude": 33.854721,
+  "Longitude": 35.862285
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432691"
+  },
+  "Country": "Lesotho",
+  "Abbreviation": "LS",
+  "Land_Area": 30355,
+  "Army_size": 2000,
+  "Capital": "Maseru",
+  "C02_Emissions": 2512,
+  "GDP": {
+    "$numberLong": "2460072444"
+  },
+  "Official_lang": "English",
+  "Population": 2125268,
+  "Latitude": -29.609988,
+  "Longitude": 28.233608
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432692"
+  },
+  "Country": "Liberia",
+  "Abbreviation": "LR",
+  "Land_Area": 111369,
+  "Army_size": 2000,
+  "Capital": "Monrovia",
+  "C02_Emissions": 1386,
+  "GDP": {
+    "$numberLong": "3070518100"
+  },
+  "Official_lang": "English",
+  "Population": 4937374,
+  "Latitude": 6.428055,
+  "Longitude": -9.429499
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432693"
+  },
+  "Country": "Libya",
+  "Abbreviation": "LY",
+  "Land_Area": 1759540,
+  "Army_size": 0,
+  "C02_Emissions": 50564,
+  "Currency_code": "LYD",
+  "GDP": {
+    "$numberLong": "52076250948"
+  },
+  "Official_lang": "Arabic",
+  "Population": 6777452,
+  "Latitude": 26.3351,
+  "Longitude": 17.228331
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432694"
+  },
+  "Country": "Liechtenstein",
+  "Abbreviation": "LI",
+  "Land_Area": 160,
+  "Army_size": 0,
+  "Capital": "Vaduz",
+  "C02_Emissions": 51,
+  "Currency_code": "CHF",
+  "GDP": {
+    "$numberLong": "6552858739"
+  },
+  "Official_lang": "German",
+  "Population": 38019,
+  "Latitude": 47.1410392,
+  "Longitude": 9.520935
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432695"
+  },
+  "Country": "Lithuania",
+  "Abbreviation": "LT",
+  "Land_Area": 65300,
+  "Army_size": 34000,
+  "Capital": "Vilnius",
+  "C02_Emissions": 12963,
+  "Currency_code": "EUR",
+  "GDP": {
+    "$numberLong": "54219315600"
+  },
+  "Official_lang": "Lithuanian",
+  "Population": 2786844,
+  "Latitude": 55.169438,
+  "Longitude": 23.881275
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432696"
+  },
+  "Country": "Luxembourg",
+  "Abbreviation": "LU",
+  "Land_Area": 2586,
+  "Army_size": 2000,
+  "Capital": "Luxembourg City",
+  "C02_Emissions": 8988,
+  "Currency_code": "EUR",
+  "GDP": {
+    "$numberLong": "71104919108"
+  },
+  "Official_lang": "Luxembourgish",
+  "Population": 645397,
+  "Latitude": 49.815273,
+  "Longitude": 6.129583
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432697"
+  },
+  "Country": "Madagascar",
+  "Abbreviation": "MG",
+  "Land_Area": 587041,
+  "Army_size": 22000,
+  "Capital": "Antananarivo",
+  "C02_Emissions": 3905,
+  "Currency_code": "MGA",
+  "GDP": {
+    "$numberLong": "14083906357"
+  },
+  "Official_lang": "French",
+  "Population": 26969307,
+  "Latitude": -18.766947,
+  "Longitude": 46.869107
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432698"
+  },
+  "Country": "Malawi",
+  "Abbreviation": "MW",
+  "Land_Area": 118484,
+  "Army_size": 15000,
+  "Capital": "Lilongwe",
+  "C02_Emissions": 1298,
+  "Currency_code": "MWK",
+  "GDP": {
+    "$numberLong": "7666704427"
+  },
+  "Official_lang": "English",
+  "Population": 18628747,
+  "Latitude": -13.254308,
+  "Longitude": 34.301525
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a432699"
+  },
+  "Country": "Malaysia",
+  "Abbreviation": "MY",
+  "Land_Area": 329847,
+  "Army_size": 136000,
+  "Capital": "Kuala Lumpur",
+  "C02_Emissions": 248289,
+  "Currency_code": "MYR",
+  "GDP": {
+    "$numberLong": "364701517788"
+  },
+  "Official_lang": "Malaysian language",
+  "Population": 32447385,
+  "Latitude": 4.210484,
+  "Longitude": 101.975766
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43269a"
+  },
+  "Country": "Maldives",
+  "Abbreviation": "MV",
+  "Land_Area": 298,
+  "Army_size": 5000,
+  "Capital": "Mal�",
+  "C02_Emissions": 1445,
+  "GDP": {
+    "$numberLong": "5729248472"
+  },
+  "Official_lang": "Divehi",
+  "Population": 530953,
+  "Latitude": 3.202778,
+  "Longitude": 73.22068
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43269b"
+  },
+  "Country": "Mali",
+  "Abbreviation": "ML",
+  "Land_Area": 1240192,
+  "Army_size": 18000,
+  "Capital": "Bamako",
+  "C02_Emissions": 3179,
+  "Currency_code": "XOF",
+  "GDP": {
+    "$numberLong": "17510141171"
+  },
+  "Official_lang": "French",
+  "Population": 19658031,
+  "Latitude": 17.570692,
+  "Longitude": -3.996166
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43269c"
+  },
+  "Country": "Malta",
+  "Abbreviation": "MT",
+  "Land_Area": 316,
+  "Army_size": 2000,
+  "Capital": "Valletta",
+  "C02_Emissions": 1342,
+  "Currency_code": "EUR",
+  "GDP": {
+    "$numberLong": "14786156563"
+  },
+  "Official_lang": "Maltese",
+  "Population": 502653,
+  "Latitude": 35.937496,
+  "Longitude": 14.375416
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43269d"
+  },
+  "Country": "Marshall Islands",
+  "Abbreviation": "MH",
+  "Land_Area": 181,
+  "Army_size": 0,
+  "Capital": "Majuro",
+  "C02_Emissions": 143,
+  "Currency_code": "USD",
+  "GDP": 221278000,
+  "Official_lang": "Marshallese",
+  "Population": 58791,
+  "Latitude": 7.131474,
+  "Longitude": 171.184478
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43269e"
+  },
+  "Country": "Mauritania",
+  "Abbreviation": "MR",
+  "Land_Area": 1030700,
+  "Army_size": 21000,
+  "Capital": "Nouakchott",
+  "C02_Emissions": 2739,
+  "Currency_code": "MRU",
+  "GDP": {
+    "$numberLong": "7593752450"
+  },
+  "Official_lang": "Arabic",
+  "Population": 4525696,
+  "Latitude": 21.00789,
+  "Longitude": -10.940835
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a43269f"
+  },
+  "Country": "Mauritius",
+  "Abbreviation": "MU",
+  "Land_Area": 2040,
+  "Army_size": 3000,
+  "Capital": "Port Louis",
+  "C02_Emissions": 4349,
+  "Currency_code": "MUR",
+  "GDP": {
+    "$numberLong": "14180444557"
+  },
+  "Official_lang": "French",
+  "Population": 1265711,
+  "Latitude": -20.348404,
+  "Longitude": 57.552152
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326a0"
+  },
+  "Country": "Mexico",
+  "Abbreviation": "MX",
+  "Land_Area": 1964375,
+  "Army_size": 336000,
+  "Capital": "Mexico City",
+  "C02_Emissions": 486406,
+  "Currency_code": "MXN",
+  "GDP": {
+    "$numberLong": "1258286717125"
+  },
+  "Official_lang": "None",
+  "Population": 126014024,
+  "Latitude": 23.634501,
+  "Longitude": -102.552784
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326a1"
+  },
+  "Country": "Federated States of Micronesia",
+  "Abbreviation": "FM",
+  "Land_Area": 702,
+  "Army_size": 0,
+  "Capital": "Palikir",
+  "C02_Emissions": 143,
+  "Currency_code": "USD",
+  "GDP": 401932279,
+  "Official_lang": "English",
+  "Population": 113815,
+  "Latitude": 7.425554,
+  "Longitude": 150.550812
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326a2"
+  },
+  "Country": "Moldova",
+  "Abbreviation": "MD",
+  "Land_Area": 33851,
+  "Army_size": 7000,
+  "Capital": "Chi����",
+  "C02_Emissions": 5115,
+  "Currency_code": "MDL",
+  "GDP": {
+    "$numberLong": "11955435457"
+  },
+  "Official_lang": "Romanian",
+  "Population": 2657637,
+  "Latitude": 47.411631,
+  "Longitude": 28.369885
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326a3"
+  },
+  "Country": "Monaco",
+  "Abbreviation": "MC",
+  "Land_Area": 2,
+  "Army_size": 0,
+  "Capital": "Monaco City",
+  "Currency_code": "EUR",
+  "GDP": {
+    "$numberLong": "7184844193"
+  },
+  "Official_lang": "French",
+  "Population": 38964,
+  "Latitude": 43.7384176,
+  "Longitude": 7.4246158
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326a4"
+  },
+  "Country": "Mongolia",
+  "Abbreviation": "MN",
+  "Land_Area": 1564116,
+  "Army_size": 18000,
+  "Capital": "Ulaanbaatar",
+  "C02_Emissions": 25368,
+  "Currency_code": "MNT",
+  "GDP": {
+    "$numberLong": "13852850259"
+  },
+  "Official_lang": "Mongolian",
+  "Population": 3225167,
+  "Latitude": 46.862496,
+  "Longitude": 103.846656
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326a5"
+  },
+  "Country": "Montenegro",
+  "Abbreviation": "ME",
+  "Land_Area": 13812,
+  "Army_size": 12000,
+  "Capital": "Podgorica",
+  "C02_Emissions": 2017,
+  "Currency_code": "EUR",
+  "GDP": {
+    "$numberLong": "5494736901"
+  },
+  "Official_lang": "Montenegrin language",
+  "Population": 622137,
+  "Latitude": 42.708678,
+  "Longitude": 19.37439
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326a6"
+  },
+  "Country": "Morocco",
+  "Abbreviation": "MA",
+  "Land_Area": 446550,
+  "Army_size": 246000,
+  "Capital": "Rabat",
+  "C02_Emissions": 61276,
+  "Currency_code": "MAD",
+  "GDP": {
+    "$numberLong": "118725279596"
+  },
+  "Official_lang": "Arabic",
+  "Population": 36910560,
+  "Latitude": 31.791702,
+  "Longitude": -7.09262
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326a7"
+  },
+  "Country": "Mozambique",
+  "Abbreviation": "MZ",
+  "Land_Area": 799380,
+  "Army_size": 11000,
+  "Capital": "Maputo",
+  "C02_Emissions": 7943,
+  "Currency_code": "MZN",
+  "GDP": {
+    "$numberLong": "14934159926"
+  },
+  "Official_lang": "Portuguese",
+  "Population": 30366036,
+  "Latitude": -18.665695,
+  "Longitude": 35.529562
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326a8"
+  },
+  "Country": "Myanmar",
+  "Abbreviation": "MM",
+  "Land_Area": 676578,
+  "Army_size": 513000,
+  "Capital": "Naypyidaw",
+  "C02_Emissions": 25280,
+  "Currency_code": "MMK",
+  "GDP": {
+    "$numberLong": "76085852617"
+  },
+  "Official_lang": "Burmese",
+  "Population": 54045420,
+  "Latitude": 21.916221,
+  "Longitude": 95.955974
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326a9"
+  },
+  "Country": "Namibia",
+  "Land_Area": 824292,
+  "Army_size": 16000,
+  "Capital": "Windhoek",
+  "C02_Emissions": 4228,
+  "GDP": {
+    "$numberLong": "12366527719"
+  },
+  "Official_lang": "English",
+  "Population": 2494530,
+  "Latitude": -22.95764,
+  "Longitude": 18.49041
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326aa"
+  },
+  "Country": "Nauru",
+  "Abbreviation": "NR",
+  "Land_Area": 21,
+  "Army_size": 0,
+  "Capital": "Yaren District",
+  "Currency_code": "AUD",
+  "GDP": 133000000,
+  "Official_lang": "English",
+  "Population": 10084,
+  "Latitude": -0.522778,
+  "Longitude": 166.931503
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326ab"
+  },
+  "Country": "Nepal",
+  "Abbreviation": "NP",
+  "Land_Area": 147181,
+  "Army_size": 112000,
+  "Capital": "Kathmandu",
+  "C02_Emissions": 9105,
+  "Currency_code": "NPR",
+  "GDP": {
+    "$numberLong": "30641380604"
+  },
+  "Official_lang": "Nepali",
+  "Population": 28608710,
+  "Latitude": 28.394857,
+  "Longitude": 84.124008
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326ac"
+  },
+  "Country": "Netherlands",
+  "Abbreviation": "NL",
+  "Land_Area": 41543,
+  "Army_size": 41000,
+  "Capital": "Amsterdam",
+  "C02_Emissions": 170780,
+  "GDP": {
+    "$numberLong": "909070395161"
+  },
+  "Official_lang": "Dutch",
+  "Population": 17332850,
+  "Latitude": 52.132633,
+  "Longitude": 5.291266
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326ad"
+  },
+  "Country": "New Zealand",
+  "Abbreviation": "NZ",
+  "Land_Area": 268838,
+  "Army_size": 9000,
+  "Capital": "Wellington",
+  "C02_Emissions": 34382,
+  "Currency_code": "NZD",
+  "GDP": {
+    "$numberLong": "206928765544"
+  },
+  "Official_lang": "English",
+  "Population": 4841000,
+  "Latitude": -40.900557,
+  "Longitude": 174.885971
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326ae"
+  },
+  "Country": "Nicaragua",
+  "Abbreviation": "NI",
+  "Land_Area": 130370,
+  "Army_size": 12000,
+  "Capital": "Managua",
+  "C02_Emissions": 5592,
+  "Currency_code": "NIO",
+  "GDP": {
+    "$numberLong": "12520915291"
+  },
+  "Official_lang": "Spanish",
+  "Population": 6545502,
+  "Latitude": 12.865416,
+  "Longitude": -85.207229
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326af"
+  },
+  "Country": "Niger",
+  "Abbreviation": "NE",
+  "Land_Area": 1267000,
+  "Army_size": 10000,
+  "Capital": "Niamey",
+  "C02_Emissions": 2017,
+  "Currency_code": "XOF",
+  "GDP": {
+    "$numberLong": "12928145120"
+  },
+  "Official_lang": "French",
+  "Population": 23310715,
+  "Latitude": 17.607789,
+  "Longitude": 8.081666
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326b0"
+  },
+  "Country": "Nigeria",
+  "Abbreviation": "NG",
+  "Land_Area": 923768,
+  "Army_size": 215000,
+  "Capital": "Abuja",
+  "C02_Emissions": 120369,
+  "Currency_code": "NGN",
+  "GDP": {
+    "$numberLong": "448120428859"
+  },
+  "Official_lang": "English",
+  "Population": 200963599,
+  "Latitude": 9.081999,
+  "Longitude": 8.675277
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326b1"
+  },
+  "Country": "North Korea",
+  "Abbreviation": "KP",
+  "Land_Area": 120538,
+  "Army_size": 1469000,
+  "Capital": "Pyongyang",
+  "C02_Emissions": 28284,
+  "Currency_code": "KPW",
+  "GDP": {
+    "$numberLong": "32100000000"
+  },
+  "Official_lang": "Korean",
+  "Population": 25666161,
+  "Latitude": 40.339852,
+  "Longitude": 127.510093
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326b2"
+  },
+  "Country": "North Macedonia",
+  "Land_Area": 25713,
+  "Army_size": 0,
+  "Capital": "Skopje",
+  "Currency_code": "MKD",
+  "GDP": {
+    "$numberLong": "10220781069"
+  },
+  "Official_lang": "Macedonian",
+  "Population": 1836713,
+  "Latitude": 41.608635,
+  "Longitude": 21.745275
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326b3"
+  },
+  "Country": "Norway",
+  "Abbreviation": "NO",
+  "Land_Area": 323802,
+  "Army_size": 23000,
+  "Capital": "Oslo",
+  "C02_Emissions": 41023,
+  "Currency_code": "NOK",
+  "GDP": {
+    "$numberLong": "403336363636"
+  },
+  "Official_lang": "Norwegian",
+  "Population": 5347896,
+  "Latitude": 60.472024,
+  "Longitude": 8.468946
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326b4"
+  },
+  "Country": "Oman",
+  "Abbreviation": "OM",
+  "Land_Area": 309500,
+  "Army_size": 47000,
+  "Capital": "Muscat",
+  "C02_Emissions": 63457,
+  "Currency_code": "OMR",
+  "GDP": {
+    "$numberLong": "76983094928"
+  },
+  "Official_lang": "Arabic",
+  "Population": 5266535,
+  "Latitude": 21.4735329,
+  "Longitude": 55.975413
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326b5"
+  },
+  "Country": "Pakistan",
+  "Abbreviation": "PK",
+  "Land_Area": 796095,
+  "Army_size": 936000,
+  "Capital": "Islamabad",
+  "C02_Emissions": 201150,
+  "Currency_code": "PKR",
+  "GDP": {
+    "$numberLong": "304400000000"
+  },
+  "Official_lang": "Urdu",
+  "Population": 216565318,
+  "Latitude": 30.375321,
+  "Longitude": 69.345116
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326b6"
+  },
+  "Country": "Palau",
+  "Abbreviation": "PW",
+  "Land_Area": 459,
+  "Army_size": 0,
+  "Capital": "Ngerulmud",
+  "C02_Emissions": 224,
+  "Currency_code": "USD",
+  "GDP": 283994900,
+  "Official_lang": "English",
+  "Population": 18233,
+  "Latitude": 7.51498,
+  "Longitude": 134.58252
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326b7"
+  },
+  "Country": "Palestinian National Authority",
+  "Army_size": 0,
+  "Official_lang": "Arabic",
+  "Latitude": 31.952162,
+  "Longitude": 35.233154
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326b8"
+  },
+  "Country": "Panama",
+  "Abbreviation": "PA",
+  "Land_Area": 75420,
+  "Army_size": 26000,
+  "Capital": "Panama City",
+  "C02_Emissions": 10715,
+  "GDP": {
+    "$numberLong": "66800800000"
+  },
+  "Official_lang": "Spanish",
+  "Population": 4246439,
+  "Latitude": 8.537981,
+  "Longitude": -80.782127
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326b9"
+  },
+  "Country": "Papua New Guinea",
+  "Abbreviation": "PG",
+  "Land_Area": 462840,
+  "Army_size": 4000,
+  "Capital": "Port Moresby",
+  "C02_Emissions": 7536,
+  "Currency_code": "PGK",
+  "GDP": {
+    "$numberLong": "24969611435"
+  },
+  "Official_lang": "Tok Pisin",
+  "Population": 8776109,
+  "Latitude": -6.314993,
+  "Longitude": 143.95555
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326ba"
+  },
+  "Country": "Paraguay",
+  "Abbreviation": "PY",
+  "Land_Area": 406752,
+  "Army_size": 27000,
+  "Capital": "Asunci��",
+  "C02_Emissions": 7407,
+  "Currency_code": "PYG",
+  "GDP": {
+    "$numberLong": "38145288940"
+  },
+  "Official_lang": "Spanish",
+  "Population": 7044636,
+  "Latitude": -23.442503,
+  "Longitude": -58.443832
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326bb"
+  },
+  "Country": "Peru",
+  "Abbreviation": "PE",
+  "Land_Area": 1285216,
+  "Army_size": 158000,
+  "Capital": "Lima",
+  "C02_Emissions": 57414,
+  "Currency_code": "PEN",
+  "GDP": {
+    "$numberLong": "226848050820"
+  },
+  "Official_lang": "Spanish",
+  "Population": 32510453,
+  "Latitude": -9.189967,
+  "Longitude": -75.015152
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326bc"
+  },
+  "Country": "Philippines",
+  "Abbreviation": "PH",
+  "Land_Area": 300000,
+  "Army_size": 153000,
+  "Capital": "Manila",
+  "C02_Emissions": 122287,
+  "Currency_code": "PHP",
+  "GDP": {
+    "$numberLong": "376795508680"
+  },
+  "Official_lang": "English",
+  "Population": 108116615,
+  "Latitude": 12.879721,
+  "Longitude": 121.774017
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326bd"
+  },
+  "Country": "Poland",
+  "Abbreviation": "PL",
+  "Land_Area": 312685,
+  "Army_size": 191000,
+  "Capital": "Warsaw",
+  "C02_Emissions": 299037,
+  "Currency_code": "PLN",
+  "GDP": {
+    "$numberLong": "592164400688"
+  },
+  "Official_lang": "Polish",
+  "Population": 37970874,
+  "Latitude": 51.919438,
+  "Longitude": 19.145136
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326be"
+  },
+  "Country": "Portugal",
+  "Abbreviation": "PT",
+  "Land_Area": 92212,
+  "Army_size": 52000,
+  "Capital": "Lisbon",
+  "C02_Emissions": 48742,
+  "Currency_code": "EUR",
+  "GDP": {
+    "$numberLong": "237686075635"
+  },
+  "Official_lang": "Portuguese",
+  "Population": 10269417,
+  "Latitude": 39.399872,
+  "Longitude": -8.224454
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326bf"
+  },
+  "Country": "Qatar",
+  "Abbreviation": "QA",
+  "Land_Area": 11586,
+  "Army_size": 22000,
+  "Capital": "Doha",
+  "C02_Emissions": 103259,
+  "Currency_code": "QAR",
+  "GDP": {
+    "$numberLong": "183466208791"
+  },
+  "Official_lang": "Arabic",
+  "Population": 2832067,
+  "Latitude": 25.354826,
+  "Longitude": 51.183884
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326c0"
+  },
+  "Country": "Romania",
+  "Abbreviation": "RO",
+  "Land_Area": 238391,
+  "Army_size": 126000,
+  "Capital": "Bucharest",
+  "C02_Emissions": 69259,
+  "Currency_code": "RON",
+  "GDP": {
+    "$numberLong": "250077444017"
+  },
+  "Official_lang": "Romanian",
+  "Population": 19356544,
+  "Latitude": 45.943161,
+  "Longitude": 24.96676
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326c1"
+  },
+  "Country": "Russia",
+  "Abbreviation": "RU",
+  "Land_Area": 17098240,
+  "Army_size": 1454000,
+  "Capital": "Moscow",
+  "C02_Emissions": 1732027,
+  "Currency_code": "RUB",
+  "GDP": {
+    "$numberLong": "1699876578871"
+  },
+  "Official_lang": "Russian",
+  "Population": 144373535,
+  "Latitude": 61.52401,
+  "Longitude": 105.318756
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326c2"
+  },
+  "Country": "Rwanda",
+  "Abbreviation": "RW",
+  "Land_Area": 26338,
+  "Army_size": 35000,
+  "Capital": "Kigali",
+  "C02_Emissions": 1115,
+  "Currency_code": "RWF",
+  "GDP": {
+    "$numberLong": "10122472590"
+  },
+  "Official_lang": "Swahili",
+  "Population": 12626950,
+  "Latitude": -1.940278,
+  "Longitude": 29.873888
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326c3"
+  },
+  "Country": "Saint Kitts and Nevis",
+  "Abbreviation": "KN",
+  "Land_Area": 261,
+  "Army_size": 0,
+  "Capital": "Basseterre",
+  "C02_Emissions": 238,
+  "Currency_code": "XCD",
+  "GDP": 1050992593,
+  "Official_lang": "English",
+  "Population": 52823,
+  "Latitude": 17.357822,
+  "Longitude": -62.782998
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326c4"
+  },
+  "Country": "Saint Lucia",
+  "Abbreviation": "LC",
+  "Land_Area": 616,
+  "Army_size": 0,
+  "Capital": "Castries",
+  "C02_Emissions": 414,
+  "Currency_code": "XCD",
+  "GDP": 2122450630,
+  "Official_lang": "English",
+  "Population": 182790,
+  "Latitude": 13.909444,
+  "Longitude": -60.978893
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326c5"
+  },
+  "Country": "Saint Vincent and the Grenadines",
+  "Abbreviation": "VC",
+  "Land_Area": 389,
+  "Army_size": 0,
+  "Capital": "Kingstown",
+  "C02_Emissions": 220,
+  "Currency_code": "XCD",
+  "GDP": 825385185,
+  "Official_lang": "English",
+  "Population": 100455,
+  "Latitude": 12.984305,
+  "Longitude": -61.287228
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326c6"
+  },
+  "Country": "Samoa",
+  "Abbreviation": "WS",
+  "Land_Area": 2831,
+  "Army_size": 0,
+  "Capital": "Apia",
+  "C02_Emissions": 246,
+  "Currency_code": "WST",
+  "GDP": 850655017,
+  "Official_lang": "Samoan",
+  "Population": 202506,
+  "Latitude": -13.759029,
+  "Longitude": -172.104629
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326c7"
+  },
+  "Country": "San Marino",
+  "Abbreviation": "SM",
+  "Land_Area": 61,
+  "Army_size": 0,
+  "Capital": "City of San Marino",
+  "Currency_code": "EUR",
+  "GDP": 1637931034,
+  "Official_lang": "Italian",
+  "Population": 33860,
+  "Latitude": 43.94236,
+  "Longitude": 12.457777
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326c8"
+  },
+  "Country": "S�����������",
+  "Abbreviation": "ST",
+  "Land_Area": 964,
+  "Army_size": 1000,
+  "Capital": "S����",
+  "C02_Emissions": 121,
+  "Currency_code": "STN",
+  "GDP": 429016605,
+  "Population": 215056
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326c9"
+  },
+  "Country": "Saudi Arabia",
+  "Abbreviation": "SA",
+  "Land_Area": 2149690,
+  "Army_size": 252000,
+  "Capital": "Riyadh",
+  "C02_Emissions": 563449,
+  "Currency_code": "SAR",
+  "GDP": {
+    "$numberLong": "792966838162"
+  },
+  "Official_lang": "Arabic",
+  "Population": 34268528,
+  "Latitude": 23.885942,
+  "Longitude": 45.079162
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326ca"
+  },
+  "Country": "Senegal",
+  "Abbreviation": "SN",
+  "Land_Area": 196722,
+  "Army_size": 19000,
+  "Capital": "Dakar",
+  "C02_Emissions": 10902,
+  "Currency_code": "XOF",
+  "GDP": {
+    "$numberLong": "23578084052"
+  },
+  "Official_lang": "French",
+  "Population": 16296364,
+  "Latitude": 14.497401,
+  "Longitude": -14.452362
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326cb"
+  },
+  "Country": "Serbia",
+  "Abbreviation": "RS",
+  "Land_Area": 77474,
+  "Army_size": 32000,
+  "Capital": "Belgrade",
+  "C02_Emissions": 45221,
+  "Currency_code": "RSD",
+  "GDP": {
+    "$numberLong": "51409167351"
+  },
+  "Official_lang": "Serbian",
+  "Population": 6944975,
+  "Latitude": 44.016521,
+  "Longitude": 21.005859
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326cc"
+  },
+  "Country": "Seychelles",
+  "Abbreviation": "SC",
+  "Land_Area": 455,
+  "Army_size": 0,
+  "Capital": "Victoria, Seychelles",
+  "C02_Emissions": 605,
+  "Currency_code": "SCR",
+  "GDP": 1698843063,
+  "Official_lang": "French",
+  "Population": 97625,
+  "Latitude": -4.679574,
+  "Longitude": 55.491977
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326cd"
+  },
+  "Country": "Sierra Leone",
+  "Abbreviation": "SL",
+  "Land_Area": 71740,
+  "Army_size": 9000,
+  "Capital": "Freetown",
+  "C02_Emissions": 1093,
+  "Currency_code": "SLL",
+  "GDP": {
+    "$numberLong": "3941474311"
+  },
+  "Official_lang": "English",
+  "Population": 7813215,
+  "Latitude": 8.460555,
+  "Longitude": -11.779889
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326ce"
+  },
+  "Country": "Singapore",
+  "Abbreviation": "SG",
+  "Land_Area": 716,
+  "Army_size": 81000,
+  "C02_Emissions": 37535,
+  "Currency_code": "SGD",
+  "GDP": {
+    "$numberLong": "372062527489"
+  },
+  "Official_lang": "Malay",
+  "Population": 5703569,
+  "Latitude": 1.352083,
+  "Longitude": 103.819836
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326cf"
+  },
+  "Country": "Slovakia",
+  "Abbreviation": "SK",
+  "Land_Area": 49035,
+  "Army_size": 16000,
+  "Capital": "Bratislava",
+  "C02_Emissions": 32424,
+  "Currency_code": "EUR",
+  "GDP": {
+    "$numberLong": "105422304976"
+  },
+  "Official_lang": "Slovak",
+  "Population": 5454073,
+  "Latitude": 48.669026,
+  "Longitude": 19.699024
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326d0"
+  },
+  "Country": "Slovenia",
+  "Abbreviation": "SI",
+  "Land_Area": 20273,
+  "Army_size": 7000,
+  "Capital": "Ljubljana",
+  "C02_Emissions": 12633,
+  "Currency_code": "EUR",
+  "GDP": {
+    "$numberLong": "53742159517"
+  },
+  "Official_lang": "Slovene language",
+  "Population": 2087946,
+  "Latitude": 46.151241,
+  "Longitude": 14.995463
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326d1"
+  },
+  "Country": "Solomon Islands",
+  "Abbreviation": "SB",
+  "Land_Area": 28896,
+  "Army_size": 0,
+  "Capital": "Honiara",
+  "C02_Emissions": 169,
+  "Currency_code": "SBD",
+  "GDP": 1425074226,
+  "Official_lang": "English",
+  "Population": 669823,
+  "Latitude": -9.64571,
+  "Longitude": 160.156194
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326d2"
+  },
+  "Country": "Somalia",
+  "Abbreviation": "SO",
+  "Land_Area": 637657,
+  "Army_size": 20000,
+  "Capital": "Mogadishu",
+  "C02_Emissions": 645,
+  "Currency_code": "SOS",
+  "GDP": {
+    "$numberLong": "4720727278"
+  },
+  "Official_lang": "Arabic",
+  "Population": 15442905,
+  "Latitude": 5.152149,
+  "Longitude": 46.199616
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326d3"
+  },
+  "Country": "South Africa",
+  "Abbreviation": "ZA",
+  "Land_Area": 1219090,
+  "Army_size": 80000,
+  "Capital": "Pretoria",
+  "C02_Emissions": 476644,
+  "Currency_code": "ZAR",
+  "GDP": {
+    "$numberLong": "351431649241"
+  },
+  "Official_lang": "Afrikaans",
+  "Population": 58558270,
+  "Latitude": -30.559482,
+  "Longitude": 22.937506
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326d4"
+  },
+  "Country": "South Korea",
+  "Abbreviation": "KR",
+  "Land_Area": 99720,
+  "Army_size": 634000,
+  "Capital": "Seoul",
+  "C02_Emissions": 620302,
+  "Currency_code": "KRW",
+  "GDP": {
+    "$numberLong": "2029000000000"
+  },
+  "Official_lang": "Korean",
+  "Population": 51709098,
+  "Latitude": 35.907757,
+  "Longitude": 127.766922
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326d5"
+  },
+  "Country": "South Sudan",
+  "Abbreviation": "SS",
+  "Land_Area": 644329,
+  "Army_size": 185000,
+  "Capital": "Juba",
+  "C02_Emissions": 1727,
+  "Currency_code": "SSP",
+  "GDP": {
+    "$numberLong": "11997800751"
+  },
+  "Official_lang": "English",
+  "Population": 11062113,
+  "Latitude": 6.8769919,
+  "Longitude": 31.3069788
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326d6"
+  },
+  "Country": "Spain",
+  "Abbreviation": "ES",
+  "Land_Area": 505370,
+  "Army_size": 196000,
+  "Capital": "Madrid",
+  "C02_Emissions": 244002,
+  "Currency_code": "EUR",
+  "GDP": {
+    "$numberLong": "1394116310769"
+  },
+  "Official_lang": "Spanish",
+  "Population": 47076781,
+  "Latitude": 40.463667,
+  "Longitude": -3.74922
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326d7"
+  },
+  "Country": "Sri Lanka",
+  "Abbreviation": "LK",
+  "Land_Area": 65610,
+  "Army_size": 317000,
+  "Capital": "Colombo",
+  "C02_Emissions": 23362,
+  "Currency_code": "LKR",
+  "GDP": {
+    "$numberLong": "84008783756"
+  },
+  "Official_lang": "Tamil",
+  "Population": 21803000,
+  "Latitude": 7.873054,
+  "Longitude": 80.771797
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326d8"
+  },
+  "Country": "Sudan",
+  "Abbreviation": "SD",
+  "Land_Area": 1861484,
+  "Army_size": 124000,
+  "Capital": "Khartoum",
+  "C02_Emissions": 20000,
+  "Currency_code": "SDG",
+  "GDP": {
+    "$numberLong": "18902284476"
+  },
+  "Official_lang": "Arabic",
+  "Population": 42813238,
+  "Latitude": 12.862807,
+  "Longitude": 30.217636
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326d9"
+  },
+  "Country": "Suriname",
+  "Abbreviation": "SR",
+  "Land_Area": 163820,
+  "Army_size": 2000,
+  "Capital": "Paramaribo",
+  "C02_Emissions": 1738,
+  "Currency_code": "SRD",
+  "GDP": {
+    "$numberLong": "3985250737"
+  },
+  "Official_lang": "Dutch",
+  "Population": 581372,
+  "Latitude": 3.919305,
+  "Longitude": -56.027783
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326da"
+  },
+  "Country": "Sweden",
+  "Abbreviation": "SE",
+  "Land_Area": 450295,
+  "Army_size": 30000,
+  "Capital": "Stockholm",
+  "C02_Emissions": 43252,
+  "Currency_code": "SEK",
+  "GDP": {
+    "$numberLong": "530832908738"
+  },
+  "Official_lang": "Swedish",
+  "Population": 10285453,
+  "Latitude": 60.128161,
+  "Longitude": 18.643501
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326db"
+  },
+  "Country": "Switzerland",
+  "Abbreviation": "CH",
+  "Land_Area": 41277,
+  "Army_size": 21000,
+  "Capital": "Bern",
+  "C02_Emissions": 34477,
+  "Currency_code": "CHF",
+  "GDP": {
+    "$numberLong": "703082435360"
+  },
+  "Official_lang": "German",
+  "Population": 8574832,
+  "Latitude": 46.818188,
+  "Longitude": 8.227512
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326dc"
+  },
+  "Country": "Syria",
+  "Abbreviation": "SY",
+  "Land_Area": 185180,
+  "Army_size": 239000,
+  "Capital": "Damascus",
+  "C02_Emissions": 28830,
+  "Currency_code": "SYP",
+  "GDP": {
+    "$numberLong": "40405006007"
+  },
+  "Official_lang": "Arabic",
+  "Population": 17070135,
+  "Latitude": 34.802075,
+  "Longitude": 38.996815
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326dd"
+  },
+  "Country": "Tajikistan",
+  "Abbreviation": "TJ",
+  "Land_Area": 144100,
+  "Army_size": 17000,
+  "Capital": "Dushanbe",
+  "C02_Emissions": 5310,
+  "Currency_code": "TJS",
+  "GDP": {
+    "$numberLong": "8116626794"
+  },
+  "Official_lang": "Persian",
+  "Population": 9321018,
+  "Latitude": 38.861034,
+  "Longitude": 71.276093
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326de"
+  },
+  "Country": "Tanzania",
+  "Abbreviation": "TZ",
+  "Land_Area": 947300,
+  "Army_size": 28000,
+  "Capital": "Dodoma",
+  "C02_Emissions": 11973,
+  "Currency_code": "TZS",
+  "GDP": {
+    "$numberLong": "63177068175"
+  },
+  "Official_lang": "Swahili",
+  "Population": 58005463,
+  "Latitude": -6.369028,
+  "Longitude": 34.888822
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326df"
+  },
+  "Country": "Thailand",
+  "Abbreviation": "TH",
+  "Land_Area": 513120,
+  "Army_size": 455000,
+  "Capital": "Bangkok",
+  "C02_Emissions": 283763,
+  "Currency_code": "THB",
+  "GDP": {
+    "$numberLong": "543649976166"
+  },
+  "Official_lang": "Thai",
+  "Population": 69625582,
+  "Latitude": 15.870032,
+  "Longitude": 100.992541
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326e0"
+  },
+  "Country": "East Timor",
+  "Abbreviation": "TL",
+  "Land_Area": 14874,
+  "Army_size": 2000,
+  "Capital": "Dili",
+  "C02_Emissions": 495,
+  "Currency_code": "USD",
+  "GDP": 1673540300,
+  "Official_lang": "Portuguese",
+  "Population": 3500000,
+  "Latitude": -8.874217,
+  "Longitude": 125.727539
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326e1"
+  },
+  "Country": "Togo",
+  "Abbreviation": "TG",
+  "Land_Area": 56785,
+  "Army_size": 10000,
+  "Capital": "Lom�",
+  "C02_Emissions": 3000,
+  "Currency_code": "XOF",
+  "GDP": {
+    "$numberLong": "5459979417"
+  },
+  "Official_lang": "French",
+  "Population": 8082366,
+  "Latitude": 8.619543,
+  "Longitude": 0.824782
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326e2"
+  },
+  "Country": "Tonga",
+  "Abbreviation": "TO",
+  "Land_Area": 747,
+  "Army_size": 0,
+  "Capital": "Nuku����",
+  "C02_Emissions": 128,
+  "Currency_code": "TOP",
+  "GDP": 450353314,
+  "Official_lang": "Tongan Language",
+  "Population": 100209,
+  "Latitude": -21.178986,
+  "Longitude": -175.198242
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326e3"
+  },
+  "Country": "Trinidad and Tobago",
+  "Abbreviation": "TT",
+  "Land_Area": 5128,
+  "Army_size": 4000,
+  "Capital": "Port of Spain",
+  "C02_Emissions": 43868,
+  "Currency_code": "TTD",
+  "GDP": {
+    "$numberLong": "24100202834"
+  },
+  "Official_lang": "English",
+  "Population": 1394973,
+  "Latitude": 10.691803,
+  "Longitude": -61.222503
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326e4"
+  },
+  "Country": "Tunisia",
+  "Abbreviation": "TN",
+  "Land_Area": 163610,
+  "Army_size": 48000,
+  "Capital": "Tunis",
+  "C02_Emissions": 29937,
+  "Currency_code": "TND",
+  "GDP": {
+    "$numberLong": "38797709924"
+  },
+  "Official_lang": "Arabic",
+  "Population": 11694719,
+  "Latitude": 33.886917,
+  "Longitude": 9.537499
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326e5"
+  },
+  "Country": "Turkey",
+  "Abbreviation": "TR",
+  "Land_Area": 783562,
+  "Army_size": 512000,
+  "Capital": "Ankara",
+  "C02_Emissions": 372725,
+  "Currency_code": "TRY",
+  "GDP": {
+    "$numberLong": "754411708203"
+  },
+  "Official_lang": "Turkish",
+  "Population": 83429615,
+  "Latitude": 38.963745,
+  "Longitude": 35.243322
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326e6"
+  },
+  "Country": "Turkmenistan",
+  "Abbreviation": "TM",
+  "Land_Area": 488100,
+  "Army_size": 42000,
+  "Capital": "Ashgabat",
+  "C02_Emissions": 70630,
+  "Currency_code": "TMT",
+  "GDP": {
+    "$numberLong": "40761142857"
+  },
+  "Official_lang": "Turkmen",
+  "Population": 5942089,
+  "Latitude": 38.969719,
+  "Longitude": 59.556278
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326e7"
+  },
+  "Country": "Tuvalu",
+  "Abbreviation": "TV",
+  "Land_Area": 26,
+  "Army_size": 0,
+  "Capital": "Funafuti",
+  "C02_Emissions": 11,
+  "Currency_code": "AUD",
+  "GDP": 47271463,
+  "Official_lang": "Tuvaluan Language",
+  "Population": 11646,
+  "Latitude": -7.109535,
+  "Longitude": 177.64933
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326e8"
+  },
+  "Country": "Uganda",
+  "Abbreviation": "UG",
+  "Land_Area": 241038,
+  "Army_size": 46000,
+  "Capital": "Kampala",
+  "C02_Emissions": 5680,
+  "Currency_code": "UGX",
+  "GDP": {
+    "$numberLong": "34387229486"
+  },
+  "Official_lang": "Swahili",
+  "Population": 44269594,
+  "Latitude": 1.373333,
+  "Longitude": 32.290275
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326e9"
+  },
+  "Country": "Ukraine",
+  "Abbreviation": "UA",
+  "Land_Area": 603550,
+  "Army_size": 297000,
+  "Capital": "Kyiv",
+  "C02_Emissions": 202250,
+  "Currency_code": "UAH",
+  "GDP": {
+    "$numberLong": "153781069118"
+  },
+  "Official_lang": "Ukrainian",
+  "Population": 44385155,
+  "Latitude": 48.379433,
+  "Longitude": 31.16558
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326ea"
+  },
+  "Country": "United Arab Emirates",
+  "Abbreviation": "AE",
+  "Land_Area": 83600,
+  "Army_size": 63000,
+  "Capital": "Abu Dhabi",
+  "C02_Emissions": 206324,
+  "Currency_code": "AED",
+  "GDP": {
+    "$numberLong": "421142267938"
+  },
+  "Official_lang": "Arabic",
+  "Population": 9770529,
+  "Latitude": 23.424076,
+  "Longitude": 53.847818
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326eb"
+  },
+  "Country": "United Kingdom",
+  "Abbreviation": "GB",
+  "Land_Area": 243610,
+  "Army_size": 148000,
+  "Capital": "London",
+  "C02_Emissions": 379025,
+  "Currency_code": "GBP",
+  "GDP": {
+    "$numberLong": "2827113184696"
+  },
+  "Official_lang": "English",
+  "Population": 66834405,
+  "Latitude": 55.378051,
+  "Longitude": -3.435973
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326ec"
+  },
+  "Country": "United States",
+  "Abbreviation": "US",
+  "Land_Area": 9833517,
+  "Army_size": 1359000,
+  "Capital": "Washington, D.C.",
+  "C02_Emissions": 5006302,
+  "Currency_code": "USD",
+  "GDP": {
+    "$numberLong": "21427700000000"
+  },
+  "Official_lang": "None",
+  "Population": 328239523,
+  "Latitude": 37.09024,
+  "Longitude": -95.712891
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326ed"
+  },
+  "Country": "Uruguay",
+  "Abbreviation": "UY",
+  "Land_Area": 176215,
+  "Army_size": 22000,
+  "Capital": "Montevideo",
+  "C02_Emissions": 6766,
+  "Currency_code": "UYU",
+  "GDP": {
+    "$numberLong": "56045912952"
+  },
+  "Official_lang": "Spanish",
+  "Population": 3461734,
+  "Latitude": -32.522779,
+  "Longitude": -55.765835
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326ee"
+  },
+  "Country": "Uzbekistan",
+  "Abbreviation": "UZ",
+  "Land_Area": 447400,
+  "Army_size": 68000,
+  "Capital": "Tashkent",
+  "C02_Emissions": 91811,
+  "Currency_code": "UZS",
+  "GDP": {
+    "$numberLong": "57921286440"
+  },
+  "Official_lang": "Uzbek",
+  "Population": 33580650,
+  "Latitude": 41.377491,
+  "Longitude": 64.585262
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326ef"
+  },
+  "Country": "Vanuatu",
+  "Abbreviation": "VU",
+  "Land_Area": 12189,
+  "Army_size": 0,
+  "Capital": "Port Vila",
+  "C02_Emissions": 147,
+  "Currency_code": "VUV",
+  "GDP": 917058851,
+  "Official_lang": "French",
+  "Population": 299882,
+  "Latitude": -15.376706,
+  "Longitude": 166.959158
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326f0"
+  },
+  "Country": "Venezuela",
+  "Abbreviation": "VE",
+  "Land_Area": 912050,
+  "Army_size": 343000,
+  "Capital": "Caracas",
+  "C02_Emissions": 164175,
+  "Currency_code": "VED",
+  "GDP": {
+    "$numberLong": "482359318768"
+  },
+  "Official_lang": "Spanish",
+  "Population": 28515829,
+  "Latitude": 6.42375,
+  "Longitude": -66.58973
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326f1"
+  },
+  "Country": "Vietnam",
+  "Abbreviation": "VN",
+  "Land_Area": 331210,
+  "Army_size": 522000,
+  "Capital": "Hanoi",
+  "C02_Emissions": 192668,
+  "Currency_code": "VND",
+  "GDP": {
+    "$numberLong": "261921244843"
+  },
+  "Official_lang": "Vietnamese",
+  "Population": 96462106,
+  "Latitude": 14.058324,
+  "Longitude": 108.277199
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326f2"
+  },
+  "Country": "Yemen",
+  "Abbreviation": "YE",
+  "Land_Area": 527968,
+  "Army_size": 40000,
+  "Capital": "Sanaa",
+  "C02_Emissions": 10609,
+  "Currency_code": "YER",
+  "GDP": {
+    "$numberLong": "26914402224"
+  },
+  "Official_lang": "Arabic",
+  "Population": 29161922,
+  "Latitude": 15.552727,
+  "Longitude": 48.516388
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326f3"
+  },
+  "Country": "Zambia",
+  "Abbreviation": "ZM",
+  "Land_Area": 752618,
+  "Army_size": 16000,
+  "Capital": "Lusaka",
+  "C02_Emissions": 5141,
+  "Currency_code": "ZMW",
+  "GDP": {
+    "$numberLong": "23064722446"
+  },
+  "Official_lang": "English",
+  "Population": 17861030,
+  "Latitude": -13.133897,
+  "Longitude": 27.849332
+},
+{
+  "_id": {
+    "$oid": "64dc65eb9f1e2c906a4326f4"
+  },
+  "Country": "Zimbabwe",
+  "Abbreviation": "ZW",
+  "Land_Area": 390757,
+  "Army_size": 51000,
+  "Capital": "Harare",
+  "C02_Emissions": 10983,
+  "GDP": {
+    "$numberLong": "21440758800"
+  },
+  "Official_lang": "Shona",
+  "Population": 14645468,
+  "Latitude": -19.015438,
+  "Longitude": 29.154857
+}]
